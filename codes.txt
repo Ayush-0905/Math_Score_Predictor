@@ -1,0 +1,12 @@
+Male=1
+Female=0
+some college=1
+high school=2
+associate's degree=3
+bachelor's degree=4
+master's degree=5
+some high school=6
+standard=1
+free\reduced=0
+completed=1
+none=0
